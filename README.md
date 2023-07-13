@@ -1,7 +1,7 @@
 <h1>Eaee, Eu sou o André Piasson!</h1>
 
 - 🔭 Hoje eu trabalho como Suporte a Banco de Dados de um Software contábil
-- 🌱 Estou estudando Javascrip, com foco em ser Full Stack em curso particular com mentoria e graduação
+- 🌱 Estou estudando Javascrip, com foco em ser Full Stack em curso particular com mentoria além da faculdade em Analise e desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 - 📅 Tenho 23 anos
 
