@@ -51,6 +51,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/mi
   <br>
   <br>
   <a href=""> 📬 Formulário com API para buscar automaticamente os dados de endereço, só informando CEP</a>
+  <br>
+  <br>
+  <a href="https://github.com/AndrePiasson/CalculadoraJS"> 🔢 Calculadora Responsiva com JavaScript, HTML e CSS </a> 
 </div>
 <div>
   <h3>📚 Um resumo dos Meus estudos! 📚</h3>
